@@ -1,0 +1,12 @@
+D:\Documents\Visual Studio 2019\Code\Prime numbers below 555\Prime numbers below 555\bin\Debug\netcoreapp3.1\Prime numbers below 555.exe
+D:\Documents\Visual Studio 2019\Code\Prime numbers below 555\Prime numbers below 555\bin\Debug\netcoreapp3.1\Prime numbers below 555.deps.json
+D:\Documents\Visual Studio 2019\Code\Prime numbers below 555\Prime numbers below 555\bin\Debug\netcoreapp3.1\Prime numbers below 555.runtimeconfig.json
+D:\Documents\Visual Studio 2019\Code\Prime numbers below 555\Prime numbers below 555\bin\Debug\netcoreapp3.1\Prime numbers below 555.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2019\Code\Prime numbers below 555\Prime numbers below 555\bin\Debug\netcoreapp3.1\Prime numbers below 555.dll
+D:\Documents\Visual Studio 2019\Code\Prime numbers below 555\Prime numbers below 555\bin\Debug\netcoreapp3.1\Prime numbers below 555.pdb
+D:\Documents\Visual Studio 2019\Code\Prime numbers below 555\Prime numbers below 555\obj\Debug\netcoreapp3.1\Prime numbers below 555.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2019\Code\Prime numbers below 555\Prime numbers below 555\obj\Debug\netcoreapp3.1\Prime numbers below 555.AssemblyInfo.cs
+D:\Documents\Visual Studio 2019\Code\Prime numbers below 555\Prime numbers below 555\obj\Debug\netcoreapp3.1\Prime numbers below 555.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2019\Code\Prime numbers below 555\Prime numbers below 555\obj\Debug\netcoreapp3.1\Prime numbers below 555.dll
+D:\Documents\Visual Studio 2019\Code\Prime numbers below 555\Prime numbers below 555\obj\Debug\netcoreapp3.1\Prime numbers below 555.pdb
+D:\Documents\Visual Studio 2019\Code\Prime numbers below 555\Prime numbers below 555\obj\Debug\netcoreapp3.1\Prime numbers below 555.genruntimeconfig.cache

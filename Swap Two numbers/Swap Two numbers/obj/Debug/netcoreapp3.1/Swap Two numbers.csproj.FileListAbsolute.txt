@@ -1,0 +1,12 @@
+D:\Documents\Visual Studio 2019\Code\Swap Two numbers\Swap Two numbers\obj\Debug\netcoreapp3.1\Swap Two numbers.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2019\Code\Swap Two numbers\Swap Two numbers\obj\Debug\netcoreapp3.1\Swap Two numbers.AssemblyInfo.cs
+D:\Documents\Visual Studio 2019\Code\Swap Two numbers\Swap Two numbers\obj\Debug\netcoreapp3.1\Swap Two numbers.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2019\Code\Swap Two numbers\Swap Two numbers\bin\Debug\netcoreapp3.1\Swap Two numbers.exe
+D:\Documents\Visual Studio 2019\Code\Swap Two numbers\Swap Two numbers\bin\Debug\netcoreapp3.1\Swap Two numbers.deps.json
+D:\Documents\Visual Studio 2019\Code\Swap Two numbers\Swap Two numbers\bin\Debug\netcoreapp3.1\Swap Two numbers.runtimeconfig.json
+D:\Documents\Visual Studio 2019\Code\Swap Two numbers\Swap Two numbers\bin\Debug\netcoreapp3.1\Swap Two numbers.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2019\Code\Swap Two numbers\Swap Two numbers\bin\Debug\netcoreapp3.1\Swap Two numbers.dll
+D:\Documents\Visual Studio 2019\Code\Swap Two numbers\Swap Two numbers\bin\Debug\netcoreapp3.1\Swap Two numbers.pdb
+D:\Documents\Visual Studio 2019\Code\Swap Two numbers\Swap Two numbers\obj\Debug\netcoreapp3.1\Swap Two numbers.dll
+D:\Documents\Visual Studio 2019\Code\Swap Two numbers\Swap Two numbers\obj\Debug\netcoreapp3.1\Swap Two numbers.pdb
+D:\Documents\Visual Studio 2019\Code\Swap Two numbers\Swap Two numbers\obj\Debug\netcoreapp3.1\Swap Two numbers.genruntimeconfig.cache

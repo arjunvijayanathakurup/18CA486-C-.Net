@@ -1,0 +1,12 @@
+D:\Documents\Visual Studio 2019\Code\Average of numbers\Average of numbers\bin\Debug\netcoreapp3.1\Average of numbers.exe
+D:\Documents\Visual Studio 2019\Code\Average of numbers\Average of numbers\bin\Debug\netcoreapp3.1\Average of numbers.deps.json
+D:\Documents\Visual Studio 2019\Code\Average of numbers\Average of numbers\bin\Debug\netcoreapp3.1\Average of numbers.runtimeconfig.json
+D:\Documents\Visual Studio 2019\Code\Average of numbers\Average of numbers\bin\Debug\netcoreapp3.1\Average of numbers.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2019\Code\Average of numbers\Average of numbers\bin\Debug\netcoreapp3.1\Average of numbers.dll
+D:\Documents\Visual Studio 2019\Code\Average of numbers\Average of numbers\bin\Debug\netcoreapp3.1\Average of numbers.pdb
+D:\Documents\Visual Studio 2019\Code\Average of numbers\Average of numbers\obj\Debug\netcoreapp3.1\Average of numbers.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2019\Code\Average of numbers\Average of numbers\obj\Debug\netcoreapp3.1\Average of numbers.AssemblyInfo.cs
+D:\Documents\Visual Studio 2019\Code\Average of numbers\Average of numbers\obj\Debug\netcoreapp3.1\Average of numbers.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2019\Code\Average of numbers\Average of numbers\obj\Debug\netcoreapp3.1\Average of numbers.dll
+D:\Documents\Visual Studio 2019\Code\Average of numbers\Average of numbers\obj\Debug\netcoreapp3.1\Average of numbers.pdb
+D:\Documents\Visual Studio 2019\Code\Average of numbers\Average of numbers\obj\Debug\netcoreapp3.1\Average of numbers.genruntimeconfig.cache

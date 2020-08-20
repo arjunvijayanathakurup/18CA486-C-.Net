@@ -1,0 +1,12 @@
+D:\Documents\Visual Studio 2019\Code\Power of a num\Power of a num\bin\Debug\netcoreapp3.1\Power of a num.exe
+D:\Documents\Visual Studio 2019\Code\Power of a num\Power of a num\bin\Debug\netcoreapp3.1\Power of a num.deps.json
+D:\Documents\Visual Studio 2019\Code\Power of a num\Power of a num\bin\Debug\netcoreapp3.1\Power of a num.runtimeconfig.json
+D:\Documents\Visual Studio 2019\Code\Power of a num\Power of a num\bin\Debug\netcoreapp3.1\Power of a num.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2019\Code\Power of a num\Power of a num\bin\Debug\netcoreapp3.1\Power of a num.dll
+D:\Documents\Visual Studio 2019\Code\Power of a num\Power of a num\bin\Debug\netcoreapp3.1\Power of a num.pdb
+D:\Documents\Visual Studio 2019\Code\Power of a num\Power of a num\obj\Debug\netcoreapp3.1\Power of a num.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2019\Code\Power of a num\Power of a num\obj\Debug\netcoreapp3.1\Power of a num.AssemblyInfo.cs
+D:\Documents\Visual Studio 2019\Code\Power of a num\Power of a num\obj\Debug\netcoreapp3.1\Power of a num.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2019\Code\Power of a num\Power of a num\obj\Debug\netcoreapp3.1\Power of a num.dll
+D:\Documents\Visual Studio 2019\Code\Power of a num\Power of a num\obj\Debug\netcoreapp3.1\Power of a num.pdb
+D:\Documents\Visual Studio 2019\Code\Power of a num\Power of a num\obj\Debug\netcoreapp3.1\Power of a num.genruntimeconfig.cache

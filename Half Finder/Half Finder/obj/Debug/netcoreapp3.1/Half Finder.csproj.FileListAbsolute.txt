@@ -1,0 +1,12 @@
+D:\Documents\Visual Studio 2019\Code\Half Finder\Half Finder\bin\Debug\netcoreapp3.1\Half Finder.exe
+D:\Documents\Visual Studio 2019\Code\Half Finder\Half Finder\bin\Debug\netcoreapp3.1\Half Finder.deps.json
+D:\Documents\Visual Studio 2019\Code\Half Finder\Half Finder\bin\Debug\netcoreapp3.1\Half Finder.runtimeconfig.json
+D:\Documents\Visual Studio 2019\Code\Half Finder\Half Finder\bin\Debug\netcoreapp3.1\Half Finder.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2019\Code\Half Finder\Half Finder\bin\Debug\netcoreapp3.1\Half Finder.dll
+D:\Documents\Visual Studio 2019\Code\Half Finder\Half Finder\bin\Debug\netcoreapp3.1\Half Finder.pdb
+D:\Documents\Visual Studio 2019\Code\Half Finder\Half Finder\obj\Debug\netcoreapp3.1\Half Finder.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2019\Code\Half Finder\Half Finder\obj\Debug\netcoreapp3.1\Half Finder.AssemblyInfo.cs
+D:\Documents\Visual Studio 2019\Code\Half Finder\Half Finder\obj\Debug\netcoreapp3.1\Half Finder.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2019\Code\Half Finder\Half Finder\obj\Debug\netcoreapp3.1\Half Finder.dll
+D:\Documents\Visual Studio 2019\Code\Half Finder\Half Finder\obj\Debug\netcoreapp3.1\Half Finder.pdb
+D:\Documents\Visual Studio 2019\Code\Half Finder\Half Finder\obj\Debug\netcoreapp3.1\Half Finder.genruntimeconfig.cache

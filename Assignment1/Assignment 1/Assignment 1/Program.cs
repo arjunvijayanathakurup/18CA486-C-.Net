@@ -1,0 +1,15 @@
+﻿using System;
+
+namespace Assignment_1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int a = Convert.ToInt32(Console.ReadLine());
+            int b = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Value " + a / b);
+            Console.ReadLine();
+        }
+    }
+}
