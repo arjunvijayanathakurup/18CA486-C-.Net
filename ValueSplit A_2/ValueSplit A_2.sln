@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueSplit A_2", "ValueSplit A_2\ValueSplit A_2.csproj", "{F65B9272-DE96-4E47-BF5F-F37E46EF0410}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F65B9272-DE96-4E47-BF5F-F37E46EF0410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F65B9272-DE96-4E47-BF5F-F37E46EF0410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F65B9272-DE96-4E47-BF5F-F37E46EF0410}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F65B9272-DE96-4E47-BF5F-F37E46EF0410}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF7F7B72-6976-4CC9-8588-731B7C81589C}
+	EndGlobalSection
+EndGlobal
