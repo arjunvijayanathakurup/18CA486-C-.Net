@@ -6,7 +6,12 @@ namespace CircleCalculation_A_2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            double pi = 3.14159;
+            int r = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Area is " + pi * r * r);
+            Console.WriteLine("Circumference is " + 2 * pi * r);
+            Console.WriteLine("Diameter is " + 2 * r);
+            Console.ReadLine();
         }
     }
 }
