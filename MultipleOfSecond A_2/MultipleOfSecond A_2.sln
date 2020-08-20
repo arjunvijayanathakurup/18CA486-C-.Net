@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleOfSecond A_2", "MultipleOfSecond A_2\MultipleOfSecond A_2.csproj", "{4AE5F186-98B0-44C4-B70B-1510AE9D8A2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AE5F186-98B0-44C4-B70B-1510AE9D8A2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AE5F186-98B0-44C4-B70B-1510AE9D8A2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AE5F186-98B0-44C4-B70B-1510AE9D8A2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AE5F186-98B0-44C4-B70B-1510AE9D8A2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C37CC461-BACE-434B-AE29-CF3C87D4E80B}
+	EndGlobalSection
+EndGlobal
