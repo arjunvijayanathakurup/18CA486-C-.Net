@@ -1,0 +1,13 @@
+D:\Documents\Visual Studio 2019\Code\First ten prime\First ten prime\bin\Debug\netcoreapp3.1\First ten prime.exe
+D:\Documents\Visual Studio 2019\Code\First ten prime\First ten prime\bin\Debug\netcoreapp3.1\First ten prime.deps.json
+D:\Documents\Visual Studio 2019\Code\First ten prime\First ten prime\bin\Debug\netcoreapp3.1\First ten prime.runtimeconfig.json
+D:\Documents\Visual Studio 2019\Code\First ten prime\First ten prime\bin\Debug\netcoreapp3.1\First ten prime.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2019\Code\First ten prime\First ten prime\bin\Debug\netcoreapp3.1\First ten prime.dll
+D:\Documents\Visual Studio 2019\Code\First ten prime\First ten prime\bin\Debug\netcoreapp3.1\First ten prime.pdb
+D:\Documents\Visual Studio 2019\Code\First ten prime\First ten prime\obj\Debug\netcoreapp3.1\First ten prime.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2019\Code\First ten prime\First ten prime\obj\Debug\netcoreapp3.1\First ten prime.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2019\Code\First ten prime\First ten prime\obj\Debug\netcoreapp3.1\First ten prime.AssemblyInfo.cs
+D:\Documents\Visual Studio 2019\Code\First ten prime\First ten prime\obj\Debug\netcoreapp3.1\First ten prime.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2019\Code\First ten prime\First ten prime\obj\Debug\netcoreapp3.1\First ten prime.dll
+D:\Documents\Visual Studio 2019\Code\First ten prime\First ten prime\obj\Debug\netcoreapp3.1\First ten prime.pdb
+D:\Documents\Visual Studio 2019\Code\First ten prime\First ten prime\obj\Debug\netcoreapp3.1\First ten prime.genruntimeconfig.cache
