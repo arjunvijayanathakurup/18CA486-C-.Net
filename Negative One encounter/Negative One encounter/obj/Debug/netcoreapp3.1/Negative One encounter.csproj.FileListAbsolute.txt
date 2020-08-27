@@ -1,0 +1,13 @@
+D:\Documents\Visual Studio 2019\Code\Negative One encounter\Negative One encounter\bin\Debug\netcoreapp3.1\Negative One encounter.exe
+D:\Documents\Visual Studio 2019\Code\Negative One encounter\Negative One encounter\bin\Debug\netcoreapp3.1\Negative One encounter.deps.json
+D:\Documents\Visual Studio 2019\Code\Negative One encounter\Negative One encounter\bin\Debug\netcoreapp3.1\Negative One encounter.runtimeconfig.json
+D:\Documents\Visual Studio 2019\Code\Negative One encounter\Negative One encounter\bin\Debug\netcoreapp3.1\Negative One encounter.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2019\Code\Negative One encounter\Negative One encounter\bin\Debug\netcoreapp3.1\Negative One encounter.dll
+D:\Documents\Visual Studio 2019\Code\Negative One encounter\Negative One encounter\bin\Debug\netcoreapp3.1\Negative One encounter.pdb
+D:\Documents\Visual Studio 2019\Code\Negative One encounter\Negative One encounter\obj\Debug\netcoreapp3.1\Negative One encounter.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2019\Code\Negative One encounter\Negative One encounter\obj\Debug\netcoreapp3.1\Negative One encounter.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2019\Code\Negative One encounter\Negative One encounter\obj\Debug\netcoreapp3.1\Negative One encounter.AssemblyInfo.cs
+D:\Documents\Visual Studio 2019\Code\Negative One encounter\Negative One encounter\obj\Debug\netcoreapp3.1\Negative One encounter.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2019\Code\Negative One encounter\Negative One encounter\obj\Debug\netcoreapp3.1\Negative One encounter.dll
+D:\Documents\Visual Studio 2019\Code\Negative One encounter\Negative One encounter\obj\Debug\netcoreapp3.1\Negative One encounter.pdb
+D:\Documents\Visual Studio 2019\Code\Negative One encounter\Negative One encounter\obj\Debug\netcoreapp3.1\Negative One encounter.genruntimeconfig.cache
