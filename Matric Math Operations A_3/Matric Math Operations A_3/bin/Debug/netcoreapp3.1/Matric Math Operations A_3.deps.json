@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Matric Math Operations A_3/1.0.0": {
+        "runtime": {
+          "Matric Math Operations A_3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Matric Math Operations A_3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
