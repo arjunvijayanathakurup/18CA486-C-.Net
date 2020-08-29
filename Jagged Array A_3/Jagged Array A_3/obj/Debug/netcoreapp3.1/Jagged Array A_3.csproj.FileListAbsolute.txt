@@ -1,0 +1,13 @@
+C:\Users\subsc\18CA486-C-.Net\Jagged Array A_3\Jagged Array A_3\bin\Debug\netcoreapp3.1\Jagged Array A_3.exe
+C:\Users\subsc\18CA486-C-.Net\Jagged Array A_3\Jagged Array A_3\bin\Debug\netcoreapp3.1\Jagged Array A_3.deps.json
+C:\Users\subsc\18CA486-C-.Net\Jagged Array A_3\Jagged Array A_3\bin\Debug\netcoreapp3.1\Jagged Array A_3.runtimeconfig.json
+C:\Users\subsc\18CA486-C-.Net\Jagged Array A_3\Jagged Array A_3\bin\Debug\netcoreapp3.1\Jagged Array A_3.runtimeconfig.dev.json
+C:\Users\subsc\18CA486-C-.Net\Jagged Array A_3\Jagged Array A_3\bin\Debug\netcoreapp3.1\Jagged Array A_3.dll
+C:\Users\subsc\18CA486-C-.Net\Jagged Array A_3\Jagged Array A_3\bin\Debug\netcoreapp3.1\Jagged Array A_3.pdb
+C:\Users\subsc\18CA486-C-.Net\Jagged Array A_3\Jagged Array A_3\obj\Debug\netcoreapp3.1\Jagged Array A_3.csprojAssemblyReference.cache
+C:\Users\subsc\18CA486-C-.Net\Jagged Array A_3\Jagged Array A_3\obj\Debug\netcoreapp3.1\Jagged Array A_3.AssemblyInfoInputs.cache
+C:\Users\subsc\18CA486-C-.Net\Jagged Array A_3\Jagged Array A_3\obj\Debug\netcoreapp3.1\Jagged Array A_3.AssemblyInfo.cs
+C:\Users\subsc\18CA486-C-.Net\Jagged Array A_3\Jagged Array A_3\obj\Debug\netcoreapp3.1\Jagged Array A_3.csproj.CoreCompileInputs.cache
+C:\Users\subsc\18CA486-C-.Net\Jagged Array A_3\Jagged Array A_3\obj\Debug\netcoreapp3.1\Jagged Array A_3.dll
+C:\Users\subsc\18CA486-C-.Net\Jagged Array A_3\Jagged Array A_3\obj\Debug\netcoreapp3.1\Jagged Array A_3.pdb
+C:\Users\subsc\18CA486-C-.Net\Jagged Array A_3\Jagged Array A_3\obj\Debug\netcoreapp3.1\Jagged Array A_3.genruntimeconfig.cache
