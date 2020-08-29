@@ -1,0 +1,13 @@
+C:\Users\subsc\18CA486-C-.Net\OOP Program A_3_1\OOP Program A_3_1\bin\Debug\netcoreapp3.1\OOP Program A_3_1.exe
+C:\Users\subsc\18CA486-C-.Net\OOP Program A_3_1\OOP Program A_3_1\bin\Debug\netcoreapp3.1\OOP Program A_3_1.deps.json
+C:\Users\subsc\18CA486-C-.Net\OOP Program A_3_1\OOP Program A_3_1\bin\Debug\netcoreapp3.1\OOP Program A_3_1.runtimeconfig.json
+C:\Users\subsc\18CA486-C-.Net\OOP Program A_3_1\OOP Program A_3_1\bin\Debug\netcoreapp3.1\OOP Program A_3_1.runtimeconfig.dev.json
+C:\Users\subsc\18CA486-C-.Net\OOP Program A_3_1\OOP Program A_3_1\bin\Debug\netcoreapp3.1\OOP Program A_3_1.dll
+C:\Users\subsc\18CA486-C-.Net\OOP Program A_3_1\OOP Program A_3_1\bin\Debug\netcoreapp3.1\OOP Program A_3_1.pdb
+C:\Users\subsc\18CA486-C-.Net\OOP Program A_3_1\OOP Program A_3_1\obj\Debug\netcoreapp3.1\OOP Program A_3_1.csprojAssemblyReference.cache
+C:\Users\subsc\18CA486-C-.Net\OOP Program A_3_1\OOP Program A_3_1\obj\Debug\netcoreapp3.1\OOP Program A_3_1.AssemblyInfoInputs.cache
+C:\Users\subsc\18CA486-C-.Net\OOP Program A_3_1\OOP Program A_3_1\obj\Debug\netcoreapp3.1\OOP Program A_3_1.AssemblyInfo.cs
+C:\Users\subsc\18CA486-C-.Net\OOP Program A_3_1\OOP Program A_3_1\obj\Debug\netcoreapp3.1\OOP Program A_3_1.csproj.CoreCompileInputs.cache
+C:\Users\subsc\18CA486-C-.Net\OOP Program A_3_1\OOP Program A_3_1\obj\Debug\netcoreapp3.1\OOP Program A_3_1.dll
+C:\Users\subsc\18CA486-C-.Net\OOP Program A_3_1\OOP Program A_3_1\obj\Debug\netcoreapp3.1\OOP Program A_3_1.pdb
+C:\Users\subsc\18CA486-C-.Net\OOP Program A_3_1\OOP Program A_3_1\obj\Debug\netcoreapp3.1\OOP Program A_3_1.genruntimeconfig.cache
