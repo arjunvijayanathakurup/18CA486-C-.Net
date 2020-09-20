@@ -1,0 +1,13 @@
+D:\Documents\18CA486-C-.Net\ElectionProgram\ElectionProgram\bin\Debug\netcoreapp3.1\ElectionProgram.exe
+D:\Documents\18CA486-C-.Net\ElectionProgram\ElectionProgram\bin\Debug\netcoreapp3.1\ElectionProgram.deps.json
+D:\Documents\18CA486-C-.Net\ElectionProgram\ElectionProgram\bin\Debug\netcoreapp3.1\ElectionProgram.runtimeconfig.json
+D:\Documents\18CA486-C-.Net\ElectionProgram\ElectionProgram\bin\Debug\netcoreapp3.1\ElectionProgram.runtimeconfig.dev.json
+D:\Documents\18CA486-C-.Net\ElectionProgram\ElectionProgram\bin\Debug\netcoreapp3.1\ElectionProgram.dll
+D:\Documents\18CA486-C-.Net\ElectionProgram\ElectionProgram\bin\Debug\netcoreapp3.1\ElectionProgram.pdb
+D:\Documents\18CA486-C-.Net\ElectionProgram\ElectionProgram\obj\Debug\netcoreapp3.1\ElectionProgram.csprojAssemblyReference.cache
+D:\Documents\18CA486-C-.Net\ElectionProgram\ElectionProgram\obj\Debug\netcoreapp3.1\ElectionProgram.AssemblyInfoInputs.cache
+D:\Documents\18CA486-C-.Net\ElectionProgram\ElectionProgram\obj\Debug\netcoreapp3.1\ElectionProgram.AssemblyInfo.cs
+D:\Documents\18CA486-C-.Net\ElectionProgram\ElectionProgram\obj\Debug\netcoreapp3.1\ElectionProgram.csproj.CoreCompileInputs.cache
+D:\Documents\18CA486-C-.Net\ElectionProgram\ElectionProgram\obj\Debug\netcoreapp3.1\ElectionProgram.dll
+D:\Documents\18CA486-C-.Net\ElectionProgram\ElectionProgram\obj\Debug\netcoreapp3.1\ElectionProgram.pdb
+D:\Documents\18CA486-C-.Net\ElectionProgram\ElectionProgram\obj\Debug\netcoreapp3.1\ElectionProgram.genruntimeconfig.cache
