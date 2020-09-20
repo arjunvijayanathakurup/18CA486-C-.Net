@@ -1,0 +1,13 @@
+D:\Documents\18CA486-C-.Net\Root of Qadraticeq\Root of Qadraticeq\obj\Debug\netcoreapp3.1\Root of Qadraticeq.csprojAssemblyReference.cache
+D:\Documents\18CA486-C-.Net\Root of Qadraticeq\Root of Qadraticeq\obj\Debug\netcoreapp3.1\Root of Qadraticeq.AssemblyInfoInputs.cache
+D:\Documents\18CA486-C-.Net\Root of Qadraticeq\Root of Qadraticeq\obj\Debug\netcoreapp3.1\Root of Qadraticeq.AssemblyInfo.cs
+D:\Documents\18CA486-C-.Net\Root of Qadraticeq\Root of Qadraticeq\obj\Debug\netcoreapp3.1\Root of Qadraticeq.csproj.CoreCompileInputs.cache
+D:\Documents\18CA486-C-.Net\Root of Qadraticeq\Root of Qadraticeq\bin\Debug\netcoreapp3.1\Root of Qadraticeq.exe
+D:\Documents\18CA486-C-.Net\Root of Qadraticeq\Root of Qadraticeq\bin\Debug\netcoreapp3.1\Root of Qadraticeq.deps.json
+D:\Documents\18CA486-C-.Net\Root of Qadraticeq\Root of Qadraticeq\bin\Debug\netcoreapp3.1\Root of Qadraticeq.runtimeconfig.json
+D:\Documents\18CA486-C-.Net\Root of Qadraticeq\Root of Qadraticeq\bin\Debug\netcoreapp3.1\Root of Qadraticeq.runtimeconfig.dev.json
+D:\Documents\18CA486-C-.Net\Root of Qadraticeq\Root of Qadraticeq\bin\Debug\netcoreapp3.1\Root of Qadraticeq.dll
+D:\Documents\18CA486-C-.Net\Root of Qadraticeq\Root of Qadraticeq\bin\Debug\netcoreapp3.1\Root of Qadraticeq.pdb
+D:\Documents\18CA486-C-.Net\Root of Qadraticeq\Root of Qadraticeq\obj\Debug\netcoreapp3.1\Root of Qadraticeq.dll
+D:\Documents\18CA486-C-.Net\Root of Qadraticeq\Root of Qadraticeq\obj\Debug\netcoreapp3.1\Root of Qadraticeq.pdb
+D:\Documents\18CA486-C-.Net\Root of Qadraticeq\Root of Qadraticeq\obj\Debug\netcoreapp3.1\Root of Qadraticeq.genruntimeconfig.cache
