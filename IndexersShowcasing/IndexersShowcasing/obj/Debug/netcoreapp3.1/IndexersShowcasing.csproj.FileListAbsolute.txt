@@ -1,0 +1,12 @@
+D:\Documents\18CA486-C-.Net\IndexersShowcasing\IndexersShowcasing\bin\Debug\netcoreapp3.1\IndexersShowcasing.exe
+D:\Documents\18CA486-C-.Net\IndexersShowcasing\IndexersShowcasing\bin\Debug\netcoreapp3.1\IndexersShowcasing.deps.json
+D:\Documents\18CA486-C-.Net\IndexersShowcasing\IndexersShowcasing\bin\Debug\netcoreapp3.1\IndexersShowcasing.runtimeconfig.json
+D:\Documents\18CA486-C-.Net\IndexersShowcasing\IndexersShowcasing\bin\Debug\netcoreapp3.1\IndexersShowcasing.runtimeconfig.dev.json
+D:\Documents\18CA486-C-.Net\IndexersShowcasing\IndexersShowcasing\bin\Debug\netcoreapp3.1\IndexersShowcasing.dll
+D:\Documents\18CA486-C-.Net\IndexersShowcasing\IndexersShowcasing\bin\Debug\netcoreapp3.1\IndexersShowcasing.pdb
+D:\Documents\18CA486-C-.Net\IndexersShowcasing\IndexersShowcasing\obj\Debug\netcoreapp3.1\IndexersShowcasing.AssemblyInfoInputs.cache
+D:\Documents\18CA486-C-.Net\IndexersShowcasing\IndexersShowcasing\obj\Debug\netcoreapp3.1\IndexersShowcasing.AssemblyInfo.cs
+D:\Documents\18CA486-C-.Net\IndexersShowcasing\IndexersShowcasing\obj\Debug\netcoreapp3.1\IndexersShowcasing.csproj.CoreCompileInputs.cache
+D:\Documents\18CA486-C-.Net\IndexersShowcasing\IndexersShowcasing\obj\Debug\netcoreapp3.1\IndexersShowcasing.dll
+D:\Documents\18CA486-C-.Net\IndexersShowcasing\IndexersShowcasing\obj\Debug\netcoreapp3.1\IndexersShowcasing.pdb
+D:\Documents\18CA486-C-.Net\IndexersShowcasing\IndexersShowcasing\obj\Debug\netcoreapp3.1\IndexersShowcasing.genruntimeconfig.cache
